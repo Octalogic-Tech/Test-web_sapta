@@ -3,11 +3,11 @@
 
 | Task | Description |
 | ----------- | ----------- |
-| [ Task 1 ](#task-1) | API |
-| [ Task 2 ](#task-2) | Form and Validation |
-| [ Task 3 ](#task-3) | Request |
-| [ Task 4 ](#task-4) | Arrays |
-| [ Bonus Task ](#bonus-task) | Libraries |
+| [ Task 1 ](#task-1) | Documentation |
+| [ Task 2 ](#task-2) | AJAX |
+| [ Task 3 ](#task-3) | CSS |
+| [ Task 4 ](#task-4) | JS |
+| [ Bonus Task ](#bonus-task) | Events |
 
 ### Task 1
 - [https://swapi.co/](https://swapi.co/)
