@@ -12,7 +12,7 @@
 ### Task 1
 - [https://swapi.co/](https://swapi.co/)
 - The link above is to the Open Source Star Wars API Website
-- Using a <p> tag, display the query ( the actual query string ) to get all people whose name contains "Ray" 
+- Using a ```<p>``` tag, display the query ( the actual query string ) to get all people whose name contains "Ray" 
 
 
 ### Task 2
