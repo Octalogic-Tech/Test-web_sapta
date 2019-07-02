@@ -29,12 +29,12 @@
 
 ### Task 4
 - If the "surface_water" from the API returned data from Task 3 is less than 5
- - Then add the class "unhabitable" to the li created in Task 3
+  - Then add the class "unhabitable" to the li created in Task 3
 - Else
- - Add the class "habitable" to the li created in Task 3.
+  - Add the class "habitable" to the li created in Task 3.
 
 ### Bonus Task
 - On Click of the name of the planet
- - Make a query to the API and fetch all details for that planet
- - Log the returned data in the developer console.
+  - Make a query to the API and fetch all details for that planet
+  - Log the returned data in the developer console.
 
